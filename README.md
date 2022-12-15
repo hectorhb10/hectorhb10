@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hectorhb10
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java 14
-- 💞️ I’m looking to work as software engineer
-- 📫 How to reach me cr7makinazul@gmail.com
+- 🌱 I’m currently working as software engineer
+- 💞️ I’m looking to work as software engineer abroad
+- 📫 How to reach me hectorhb10@hotmail.com hectorbecerra2098@gmail.com
 
 <!---
 hectorhb10/hectorhb10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
